@@ -2029,8 +2029,6 @@ git push origin feature/your-feature-name
 | Owner management | ✅ Implemented |
 | Evidence review | ✅ Implemented |
 | Strategy report generation | ✅ Implemented |
-| Automated embedding pipeline | ⚠️ Not included in current ZIP |
-| LangChain / LangGraph orchestration | ⚠️ Not included in current ZIP |
 | Enterprise background workers | 🔮 Future |
 | Full semantic retrieval in main workflow | 🔮 Future |
 
