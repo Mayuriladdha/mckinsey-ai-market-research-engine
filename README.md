@@ -2110,6 +2110,12 @@ Live frontend:
 
 https://mckinsey-ai-market-research-engine.vercel.app/
 
+Demo video :
+
+name swapnil sudhakar pathare
+demo link :
+
+
 ---
 
 ## 📄 License
