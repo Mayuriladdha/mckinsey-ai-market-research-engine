@@ -2,6 +2,9 @@
 
 A governed research-to-brief prototype built from the supplied product dossier and reference interface.
 
+# Link
+https://mckinsey-ai-market-research-engine.vercel.app/
+
 ## Product flow
 Query → Planner Agent → Web Browsing Agents → Data Extraction → Validation → Aggregation + Memory → Report Generation → Human Review.
 
