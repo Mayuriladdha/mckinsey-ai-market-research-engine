@@ -2112,7 +2112,7 @@ https://mckinsey-ai-market-research-engine.vercel.app/
 
 Demo video :
 
-name : Swapnil Sudhakar Pathare 
+Name : Swapnil Sudhakar Pathare 
 
 ---
 
